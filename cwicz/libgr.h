@@ -1,2 +1,0 @@
-void pg();
-void pr();

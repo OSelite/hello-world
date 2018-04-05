@@ -1,2 +1,0 @@
-void pj();
-void pp();
